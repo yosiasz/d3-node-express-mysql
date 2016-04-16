@@ -1,4 +1,4 @@
-# med3
+# ChartIt
 A simple repo to demo use of data from MySql to plot
 bar charts using D3.js with a rest api using express.js
 
