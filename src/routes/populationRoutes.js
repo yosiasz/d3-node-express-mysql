@@ -5,10 +5,10 @@ var cors = require('cors'),
 
 var connection = mysql.createConnection({
  connectionLimit : 1, //important 
-'host' : '10.0.0.7',
+'host' : 'your.mysql.ip',
 'port' : '3306',
-'user' : 'root',
-'password' : 'Semrina77',
+'user' : 'your.mysql.user',
+'password' : 'your.mysql.user.password',
 'database' : 'd3nodeexpressmysql'
 });
  
